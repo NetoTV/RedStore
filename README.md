@@ -12,6 +12,13 @@
 ![png4](frontend/github/Home4.png)
 ![png5](frontend/github/Home5.png)
 ![png6](frontend/github/Home6.png)
+![png7](frontend/github/All_products.png)
+![png8](frontend/github/All_products_2.png)
+![png9](frontend/github/All_products_3.png)
+![png10](frontend/github/product_details.png)
+![png11](frontend/github/product_details.png)
+![png12](frontend/github/product_details_2.png)
+![png13](frontend/github/Cart.png)
 
 ## :rocket: Tecnologias
 
