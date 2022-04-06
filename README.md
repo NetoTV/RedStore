@@ -6,12 +6,12 @@
 
 ## :camera: Demonstração
 
-![png1](github/Home.png)
-![png2](github/Home 2.png)
-![png3](github/Home 3.png)
-![png4](github/Home 4.png)
-![png5](github/Home 5.png)
-![png6](github/Home 6.png)
+![png1](frontend/github/Home.png)
+![png2](frontend/github/Home 2.png)
+![png3](frontend/github/Home 3.png)
+![png4](frontend/github/Home 4.png)
+![png5](frontend/github/Home 5.png)
+![png6](frontend/github/Home 6.png)
 
 ## :rocket: Tecnologias
 
