@@ -49,6 +49,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️CSS3
 
+✔️JavaScript
+
 ## 💻 Projeto
 
 - Acesse a aplicação pelo link:
